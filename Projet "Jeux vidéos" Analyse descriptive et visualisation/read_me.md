@@ -1,4 +1,4 @@
-Ce projet présente une première analyse descriptive du jeu de données "vidéo_games" comportant les ventes et quelques informations pour l'ensemble des jeux vidéos édités à date de réalisation.
+Ce projet présente une première analyse descriptive du jeu de données "vidéo_games" comportant les ventes et quelques informations pour l'ensemble des jeux vidéos édités au 22 Décembre 2016
 
 Le travail demandé par le formateur était le suivant:
 
